@@ -1,5 +1,5 @@
 # ufabet
-<h1>The quantum UFABET technique </h1>
+<h2>The quantum UFABET technique </h2>
 
 The corresponded movement of electrons assumes a significant job in the collection of iotas into atoms 
 
